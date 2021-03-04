@@ -1,0 +1,165 @@
+C:\Documents and Settings\Amir\Local Settings\Application Data\Temporary Projects\golddatabase\bin\Debug\golddatabase.exe
+C:\Documents and Settings\Amir\Local Settings\Application Data\Temporary Projects\golddatabase\bin\Debug\golddatabase.pdb
+C:\Documents and Settings\Amir\Local Settings\Application Data\Temporary Projects\golddatabase\bin\Debug\golddatabase.xml
+C:\Documents and Settings\Amir\Local Settings\Application Data\Temporary Projects\golddatabase\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Amir\Local Settings\Application Data\Temporary Projects\golddatabase\obj\Debug\golddatabase.Form1.resources
+C:\Documents and Settings\Amir\Local Settings\Application Data\Temporary Projects\golddatabase\obj\Debug\golddatabase.Resources.resources
+C:\Documents and Settings\Amir\Local Settings\Application Data\Temporary Projects\golddatabase\obj\Debug\golddatabase.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Amir\Local Settings\Application Data\Temporary Projects\golddatabase\obj\Debug\golddatabase.exe
+C:\Documents and Settings\Amir\Local Settings\Application Data\Temporary Projects\golddatabase\obj\Debug\golddatabase.xml
+C:\Documents and Settings\Amir\Local Settings\Application Data\Temporary Projects\golddatabase\obj\Debug\golddatabase.pdb
+C:\Documents and Settings\Amir\My Documents\Visual Studio 2008\Projects\golddatabase\golddatabase\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Amir\My Documents\Visual Studio 2008\Projects\golddatabase\golddatabase\obj\Debug\golddatabase.Form1.resources
+C:\Documents and Settings\Amir\My Documents\Visual Studio 2008\Projects\golddatabase\golddatabase\obj\Debug\golddatabase.Resources.resources
+C:\Documents and Settings\Amir\My Documents\Visual Studio 2008\Projects\golddatabase\golddatabase\obj\Debug\golddatabase.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Amir\My Documents\Visual Studio 2008\Projects\golddatabase\golddatabase\bin\Debug\Accessibility.dll
+C:\Documents and Settings\Amir\My Documents\Visual Studio 2008\Projects\golddatabase\golddatabase\bin\Debug\System.Core.dll
+C:\Documents and Settings\Amir\My Documents\Visual Studio 2008\Projects\golddatabase\golddatabase\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Documents and Settings\Amir\My Documents\Visual Studio 2008\Projects\golddatabase\golddatabase\bin\Debug\System.Data.dll
+C:\Documents and Settings\Amir\My Documents\Visual Studio 2008\Projects\golddatabase\golddatabase\bin\Debug\System.Deployment.dll
+C:\Documents and Settings\Amir\My Documents\Visual Studio 2008\Projects\golddatabase\golddatabase\bin\Debug\System.dll
+C:\Documents and Settings\Amir\My Documents\Visual Studio 2008\Projects\golddatabase\golddatabase\bin\Debug\System.Drawing.dll
+C:\Documents and Settings\Amir\My Documents\Visual Studio 2008\Projects\golddatabase\golddatabase\bin\Debug\System.Windows.Forms.dll
+C:\Documents and Settings\Amir\My Documents\Visual Studio 2008\Projects\golddatabase\golddatabase\bin\Debug\System.Xml.dll
+C:\Documents and Settings\Amir\My Documents\Visual Studio 2008\Projects\golddatabase\golddatabase\bin\Debug\System.Xml.Linq.dll
+C:\Documents and Settings\Amir\My Documents\Visual Studio 2008\Projects\golddatabase\golddatabase\bin\Debug\Interop.MSFlexGridLib.dll
+C:\Documents and Settings\Amir\My Documents\Visual Studio 2008\Projects\golddatabase\golddatabase\bin\Debug\AxInterop.MSFlexGridLib.dll
+C:\Documents and Settings\Amir\My Documents\Visual Studio 2008\Projects\golddatabase\golddatabase\obj\Debug\Interop.MSFlexGridLib.dll
+C:\Documents and Settings\Amir\My Documents\Visual Studio 2008\Projects\golddatabase\golddatabase\obj\Debug\AxInterop.MSFlexGridLib.dll
+C:\Documents and Settings\Amir\My Documents\Visual Studio 2008\Projects\golddatabase\golddatabase\obj\Debug\golddatabase.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Amir\My Documents\Visual Studio 2008\Projects\golddatabase\golddatabase\obj\Debug\golddatabase.Form3.resources
+C:\Documents and Settings\Amir\My Documents\Visual Studio 2008\Projects\golddatabase\golddatabase\bin\Debug\dockassempber.exe
+C:\Documents and Settings\Amir\My Documents\Visual Studio 2008\Projects\golddatabase\golddatabase\bin\Debug\dockassempber.pdb
+C:\Documents and Settings\Amir\My Documents\Visual Studio 2008\Projects\golddatabase\golddatabase\bin\Debug\dockassempber.xml
+C:\Documents and Settings\Amir\My Documents\Visual Studio 2008\Projects\golddatabase\golddatabase\obj\Debug\dockassempber.exe
+C:\Documents and Settings\Amir\My Documents\Visual Studio 2008\Projects\golddatabase\golddatabase\obj\Debug\dockassempber.xml
+C:\Documents and Settings\Amir\My Documents\Visual Studio 2008\Projects\golddatabase\golddatabase\obj\Debug\dockassempber.pdb
+C:\Documents and Settings\Amir\My Documents\Visual Studio 2008\Projects\golddatabase\golddatabase\bin\Debug\dockassempber.exe.manifest
+C:\Documents and Settings\Amir\My Documents\Visual Studio 2008\Projects\golddatabase\golddatabase\bin\Debug\dockassempber.application
+C:\Documents and Settings\Amir\My Documents\Visual Studio 2008\Projects\golddatabase\golddatabase\obj\Debug\dockassempber.exe.manifest
+C:\Documents and Settings\Amir\My Documents\Visual Studio 2008\Projects\golddatabase\golddatabase\obj\Debug\dockassempber.application
+C:\Documents and Settings\Amir\My Documents\Visual Studio 2008\Projects\golddatabase\golddatabase\bin\Debug\Resources\help.mht
+C:\Users\sakhteman\Documents\Visual Studio 2008\Projects\golddatabase\golddatabase\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sakhteman\Documents\Visual Studio 2008\Projects\golddatabase\golddatabase\obj\Debug\golddatabase.vbproj.ResolveComReference.cache
+C:\Users\sakhteman\Documents\Visual Studio 2008\Projects\golddatabase\golddatabase\obj\Debug\golddatabase.Form1.resources
+C:\Users\sakhteman\Documents\Visual Studio 2008\Projects\golddatabase\golddatabase\obj\Debug\golddatabase.Form3.resources
+C:\Users\sakhteman\Documents\Visual Studio 2008\Projects\golddatabase\golddatabase\obj\Debug\golddatabase.Resources.resources
+C:\Users\sakhteman\Documents\Visual Studio 2008\Projects\golddatabase\golddatabase\obj\Debug\golddatabase.vbproj.GenerateResource.Cache
+C:\Users\sakhteman\Documents\Visual Studio 2008\Projects\golddatabase\golddatabase\obj\Debug\dockassempber.exe
+C:\Users\sakhteman\Documents\Visual Studio 2008\Projects\golddatabase\golddatabase\obj\Debug\dockassempber.xml
+C:\Users\sakhteman\Documents\Visual Studio 2008\Projects\golddatabase\golddatabase\obj\Debug\dockassempber.pdb
+C:\Users\sakhteman\Documents\Visual Studio 2008\Projects\golddatabase\golddatabase\obj\Debug\Interop.MSFlexGridLib.dll
+C:\Users\sakhteman\Documents\Visual Studio 2008\Projects\golddatabase\golddatabase\obj\Debug\AxInterop.MSFlexGridLib.dll
+C:\Users\sakhteman\Documents\Visual Studio 2008\Projects\golddatabase\golddatabase\bin\Debug\Resources\help.mht
+C:\Users\sakhteman\Documents\Visual Studio 2008\Projects\golddatabase\golddatabase\bin\Debug\dockassempber.exe.manifest
+C:\Users\sakhteman\Documents\Visual Studio 2008\Projects\golddatabase\golddatabase\bin\Debug\dockassempber.application
+C:\Users\sakhteman\Documents\Visual Studio 2008\Projects\golddatabase\golddatabase\bin\Debug\dockassempber.exe
+C:\Users\sakhteman\Documents\Visual Studio 2008\Projects\golddatabase\golddatabase\bin\Debug\dockassempber.pdb
+C:\Users\sakhteman\Documents\Visual Studio 2008\Projects\golddatabase\golddatabase\bin\Debug\dockassempber.xml
+C:\Users\sakhteman\Documents\Visual Studio 2008\Projects\golddatabase\golddatabase\bin\Debug\Accessibility.dll
+C:\Users\sakhteman\Documents\Visual Studio 2008\Projects\golddatabase\golddatabase\bin\Debug\System.Core.dll
+C:\Users\sakhteman\Documents\Visual Studio 2008\Projects\golddatabase\golddatabase\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\sakhteman\Documents\Visual Studio 2008\Projects\golddatabase\golddatabase\bin\Debug\System.Data.dll
+C:\Users\sakhteman\Documents\Visual Studio 2008\Projects\golddatabase\golddatabase\bin\Debug\System.Deployment.dll
+C:\Users\sakhteman\Documents\Visual Studio 2008\Projects\golddatabase\golddatabase\bin\Debug\System.dll
+C:\Users\sakhteman\Documents\Visual Studio 2008\Projects\golddatabase\golddatabase\bin\Debug\System.Drawing.dll
+C:\Users\sakhteman\Documents\Visual Studio 2008\Projects\golddatabase\golddatabase\bin\Debug\System.Windows.Forms.dll
+C:\Users\sakhteman\Documents\Visual Studio 2008\Projects\golddatabase\golddatabase\bin\Debug\System.Xml.dll
+C:\Users\sakhteman\Documents\Visual Studio 2008\Projects\golddatabase\golddatabase\bin\Debug\System.Xml.Linq.dll
+C:\Users\sakhteman\Documents\Visual Studio 2008\Projects\golddatabase\golddatabase\bin\Debug\Interop.MSFlexGridLib.dll
+C:\Users\sakhteman\Documents\Visual Studio 2008\Projects\golddatabase\golddatabase\bin\Debug\AxInterop.MSFlexGridLib.dll
+C:\Users\sakhteman\Documents\Visual Studio 2008\Projects\golddatabase\golddatabase\obj\Debug\dockassempber.exe.manifest
+C:\Users\sakhteman\Documents\Visual Studio 2008\Projects\golddatabase\golddatabase\obj\Debug\dockassempber.application
+C:\Users\sakhteman\Documents\Visual Studio 2008\Projects\ROC\golddatabase\obj\Debug\Interop.MSFlexGridLib.dll
+C:\Users\sakhteman\Documents\Visual Studio 2008\Projects\ROC\golddatabase\obj\Debug\AxInterop.MSFlexGridLib.dll
+C:\Users\sakhteman\Documents\Visual Studio 2008\Projects\ROC\golddatabase\obj\Debug\golddatabase.vbproj.ResolveComReference.cache
+C:\Users\sakhteman\Documents\Visual Studio 2008\Projects\ROC\golddatabase\obj\Debug\dockassempber.exe
+C:\Users\sakhteman\Documents\Visual Studio 2008\Projects\ROC\golddatabase\obj\Debug\dockassempber.xml
+C:\Users\sakhteman\Documents\Visual Studio 2008\Projects\ROC\golddatabase\obj\Debug\dockassempber.pdb
+C:\Users\sakhteman\Documents\Visual Studio 2008\Projects\ROC\golddatabase\bin\Debug\dockassempber.exe.manifest
+C:\Users\sakhteman\Documents\Visual Studio 2008\Projects\ROC\golddatabase\bin\Debug\dockassempber.application
+C:\Users\sakhteman\Documents\Visual Studio 2008\Projects\ROC\golddatabase\bin\Debug\dockassempber.exe
+C:\Users\sakhteman\Documents\Visual Studio 2008\Projects\ROC\golddatabase\bin\Debug\dockassempber.pdb
+C:\Users\sakhteman\Documents\Visual Studio 2008\Projects\ROC\golddatabase\bin\Debug\dockassempber.xml
+C:\Users\sakhteman\Documents\Visual Studio 2008\Projects\ROC\golddatabase\bin\Debug\Accessibility.dll
+C:\Users\sakhteman\Documents\Visual Studio 2008\Projects\ROC\golddatabase\bin\Debug\System.Core.dll
+C:\Users\sakhteman\Documents\Visual Studio 2008\Projects\ROC\golddatabase\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\sakhteman\Documents\Visual Studio 2008\Projects\ROC\golddatabase\bin\Debug\System.Data.dll
+C:\Users\sakhteman\Documents\Visual Studio 2008\Projects\ROC\golddatabase\bin\Debug\System.Deployment.dll
+C:\Users\sakhteman\Documents\Visual Studio 2008\Projects\ROC\golddatabase\bin\Debug\System.dll
+C:\Users\sakhteman\Documents\Visual Studio 2008\Projects\ROC\golddatabase\bin\Debug\System.Drawing.dll
+C:\Users\sakhteman\Documents\Visual Studio 2008\Projects\ROC\golddatabase\bin\Debug\System.Windows.Forms.dll
+C:\Users\sakhteman\Documents\Visual Studio 2008\Projects\ROC\golddatabase\bin\Debug\System.Xml.dll
+C:\Users\sakhteman\Documents\Visual Studio 2008\Projects\ROC\golddatabase\bin\Debug\System.Xml.Linq.dll
+C:\Users\sakhteman\Documents\Visual Studio 2008\Projects\ROC\golddatabase\bin\Debug\Interop.MSFlexGridLib.dll
+C:\Users\sakhteman\Documents\Visual Studio 2008\Projects\ROC\golddatabase\bin\Debug\AxInterop.MSFlexGridLib.dll
+C:\Users\sakhteman\Documents\Visual Studio 2008\Projects\ROC\golddatabase\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sakhteman\Documents\Visual Studio 2008\Projects\ROC\golddatabase\obj\Debug\golddatabase.Resources.resources
+C:\Users\sakhteman\Documents\Visual Studio 2008\Projects\ROC\golddatabase\obj\Debug\golddatabase.vbproj.GenerateResource.Cache
+C:\Users\sakhteman\Documents\Visual Studio 2008\Projects\ROC\golddatabase\obj\Debug\dockassempber.exe.manifest
+C:\Users\sakhteman\Documents\Visual Studio 2008\Projects\ROC\golddatabase\obj\Debug\dockassempber.application
+C:\Users\sakhteman\Documents\Visual Studio 2008\Projects\ROC\golddatabase\obj\Debug\golddatabase.Form1.resources
+C:\Users\sakhteman\Documents\Visual Studio 2008\Projects\ROC\golddatabase\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\sakhteman\Documents\Visual Studio 2008\Projects\ROC\golddatabase\bin\Debug\System.Design.dll
+C:\Users\sakhteman\Documents\Visual Studio 2008\Projects\ROC\golddatabase\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\sakhteman\Documents\Visual Studio 2008\Projects\ROC\golddatabase\bin\Debug\stdole.dll
+C:\Users\hp\Documents\Visual Studio 2012\Projects\ROC\golddatabase\obj\Debug\golddatabase.vbproj.ResolveComReference.cache
+C:\Users\hp\Documents\Visual Studio 2012\Projects\ROC\golddatabase\obj\Debug\dockassempber.exe
+C:\Users\hp\Documents\Visual Studio 2012\Projects\ROC\golddatabase\obj\Debug\dockassempber.xml
+C:\Users\hp\Documents\Visual Studio 2012\Projects\ROC\golddatabase\obj\Debug\dockassempber.pdb
+C:\Users\hp\Documents\Visual Studio 2012\Projects\ROC\golddatabase\bin\Debug\dockassempber.exe.manifest
+C:\Users\hp\Documents\Visual Studio 2012\Projects\ROC\golddatabase\bin\Debug\dockassempber.application
+C:\Users\hp\Documents\Visual Studio 2012\Projects\ROC\golddatabase\bin\Debug\dockassempber.exe
+C:\Users\hp\Documents\Visual Studio 2012\Projects\ROC\golddatabase\bin\Debug\dockassempber.pdb
+C:\Users\hp\Documents\Visual Studio 2012\Projects\ROC\golddatabase\bin\Debug\dockassempber.xml
+C:\Users\hp\Documents\Visual Studio 2012\Projects\ROC\golddatabase\bin\Debug\Accessibility.dll
+C:\Users\hp\Documents\Visual Studio 2012\Projects\ROC\golddatabase\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\hp\Documents\Visual Studio 2012\Projects\ROC\golddatabase\bin\Debug\System.Data.dll
+C:\Users\hp\Documents\Visual Studio 2012\Projects\ROC\golddatabase\bin\Debug\System.Deployment.dll
+C:\Users\hp\Documents\Visual Studio 2012\Projects\ROC\golddatabase\bin\Debug\System.Design.dll
+C:\Users\hp\Documents\Visual Studio 2012\Projects\ROC\golddatabase\bin\Debug\System.dll
+C:\Users\hp\Documents\Visual Studio 2012\Projects\ROC\golddatabase\bin\Debug\System.Drawing.dll
+C:\Users\hp\Documents\Visual Studio 2012\Projects\ROC\golddatabase\bin\Debug\System.Windows.Forms.dll
+C:\Users\hp\Documents\Visual Studio 2012\Projects\ROC\golddatabase\bin\Debug\System.Xml.dll
+C:\Users\hp\Documents\Visual Studio 2012\Projects\ROC\golddatabase\bin\Debug\System.Xml.Linq.dll
+C:\Users\hp\Documents\Visual Studio 2012\Projects\ROC\golddatabase\bin\Debug\stdole.dll
+C:\Users\hp\Documents\Visual Studio 2012\Projects\ROC\golddatabase\obj\Debug\golddatabase.vbprojResolveAssemblyReference.cache
+C:\Users\hp\Documents\Visual Studio 2012\Projects\ROC\golddatabase\obj\Debug\golddatabase.Form1.resources
+C:\Users\hp\Documents\Visual Studio 2012\Projects\ROC\golddatabase\obj\Debug\golddatabase.Resources.resources
+C:\Users\hp\Documents\Visual Studio 2012\Projects\ROC\golddatabase\obj\Debug\golddatabase.vbproj.GenerateResource.Cache
+C:\Users\hp\Documents\Visual Studio 2012\Projects\ROC\golddatabase\obj\Debug\dockassempber.exe.manifest
+C:\Users\hp\Documents\Visual Studio 2012\Projects\ROC\golddatabase\obj\Debug\dockassempber.application
+C:\Users\hp\Documents\Visual Studio 2012\Projects\ROC\golddatabase\obj\Debug\Interop.MSFlexGridLib.dll
+C:\Users\hp\Documents\Visual Studio 2012\Projects\ROC\golddatabase\obj\Debug\AxInterop.MSFlexGridLib.dll
+C:\Users\hp\Documents\Visual Studio 2012\Projects\ROC\golddatabase\bin\Debug\Interop.MSFlexGridLib.dll
+C:\Users\hp\Documents\Visual Studio 2012\Projects\ROC\golddatabase\bin\Debug\AxInterop.MSFlexGridLib.dll
+O:\VB_projects_BAK_1_4_2021\ROC\golddatabase\obj\Debug\Interop.MSFlexGridLib.dll
+O:\VB_projects_BAK_1_4_2021\ROC\golddatabase\obj\Debug\AxInterop.MSFlexGridLib.dll
+O:\VB_projects_BAK_1_4_2021\ROC\golddatabase\obj\Debug\golddatabase.vbproj.ResolveComReference.cache
+O:\VB_projects_BAK_1_4_2021\ROC\golddatabase\obj\Debug\dockassempber.exe
+O:\VB_projects_BAK_1_4_2021\ROC\golddatabase\obj\Debug\dockassempber.xml
+O:\VB_projects_BAK_1_4_2021\ROC\golddatabase\obj\Debug\dockassempber.pdb
+O:\VB_projects_BAK_1_4_2021\ROC\golddatabase\bin\Debug\dockassempber.exe.manifest
+O:\VB_projects_BAK_1_4_2021\ROC\golddatabase\bin\Debug\dockassempber.application
+O:\VB_projects_BAK_1_4_2021\ROC\golddatabase\bin\Debug\dockassempber.exe
+O:\VB_projects_BAK_1_4_2021\ROC\golddatabase\bin\Debug\dockassempber.pdb
+O:\VB_projects_BAK_1_4_2021\ROC\golddatabase\bin\Debug\dockassempber.xml
+O:\VB_projects_BAK_1_4_2021\ROC\golddatabase\bin\Debug\Accessibility.dll
+O:\VB_projects_BAK_1_4_2021\ROC\golddatabase\bin\Debug\System.Data.DataSetExtensions.dll
+O:\VB_projects_BAK_1_4_2021\ROC\golddatabase\bin\Debug\System.Data.dll
+O:\VB_projects_BAK_1_4_2021\ROC\golddatabase\bin\Debug\System.Deployment.dll
+O:\VB_projects_BAK_1_4_2021\ROC\golddatabase\bin\Debug\System.Design.dll
+O:\VB_projects_BAK_1_4_2021\ROC\golddatabase\bin\Debug\System.dll
+O:\VB_projects_BAK_1_4_2021\ROC\golddatabase\bin\Debug\System.Drawing.dll
+O:\VB_projects_BAK_1_4_2021\ROC\golddatabase\bin\Debug\System.Windows.Forms.dll
+O:\VB_projects_BAK_1_4_2021\ROC\golddatabase\bin\Debug\System.Xml.dll
+O:\VB_projects_BAK_1_4_2021\ROC\golddatabase\bin\Debug\System.Xml.Linq.dll
+O:\VB_projects_BAK_1_4_2021\ROC\golddatabase\bin\Debug\stdole.dll
+O:\VB_projects_BAK_1_4_2021\ROC\golddatabase\bin\Debug\Interop.MSFlexGridLib.dll
+O:\VB_projects_BAK_1_4_2021\ROC\golddatabase\bin\Debug\AxInterop.MSFlexGridLib.dll
+O:\VB_projects_BAK_1_4_2021\ROC\golddatabase\obj\Debug\golddatabase.vbprojResolveAssemblyReference.cache
+O:\VB_projects_BAK_1_4_2021\ROC\golddatabase\obj\Debug\golddatabase.Form1.resources
+O:\VB_projects_BAK_1_4_2021\ROC\golddatabase\obj\Debug\golddatabase.Resources.resources
+O:\VB_projects_BAK_1_4_2021\ROC\golddatabase\obj\Debug\golddatabase.vbproj.GenerateResource.Cache
+O:\VB_projects_BAK_1_4_2021\ROC\golddatabase\obj\Debug\dockassempber.exe.manifest
+O:\VB_projects_BAK_1_4_2021\ROC\golddatabase\obj\Debug\dockassempber.application
