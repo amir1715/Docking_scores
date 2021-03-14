@@ -2,7 +2,7 @@
 Analysis of Docking results for autodock vina and other molecular docking softwares
 
 # Installation
-For installation of  the application clone the repository and install via the executable setup
+For installation of  the application clone the repository and install via the executable setup file (ROC_setup.exe)
 
 
 ## ROC curve analysis
